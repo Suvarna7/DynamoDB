@@ -1,2 +1,2 @@
 # dynamodb
-Repo holding php sscript for Dynamo table creation and the likes
+Repo holding php script for Dynamo table creation and the likes
